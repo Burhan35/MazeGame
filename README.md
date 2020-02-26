@@ -1,5 +1,5 @@
 # MazeGame
-The games is coded in java
+The game is coded in java
 
 Project:  Energy Maze
 
