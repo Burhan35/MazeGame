@@ -1,5 +1,4 @@
 # MazeGame
-The game is coded in java
 
 Project:  Energy Maze
 
@@ -59,7 +58,7 @@ End of the Game
 When the computer catches the human player, the game ends.
 
 
-Suggested Weekly Program
+ Weekly Schedule
 1.	Design of classes, data structures, menu and screen.
 2.	Load operations, player movements.
 3.	Input list, backpack operations, path finding algorithm.
